@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steve Muthiga
 - 👀 I’m interested in game development and mobile app development
-- 🌱 I’m currently learning game developement with Maliyo 
+- 🌱 I’m currently learning game and web developement 
 - 📫 Reach me via email at stmurimi@gmail.com
 
 <!---
